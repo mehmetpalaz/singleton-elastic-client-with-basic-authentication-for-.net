@@ -1,1 +1,1 @@
-# singleton-elastic-client-with-basic-authentication-for-.net
+# singleton elastic client with basic authentication for .Net
